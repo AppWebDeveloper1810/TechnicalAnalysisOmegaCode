@@ -1,0 +1,20 @@
+#footer, #navbar, #pricing, #contact, #features {
+text-align: center
+}
+
+.body {
+padding: 6px;
+}
+
+#navbar, #pricing {
+background-color: #41b7cc
+}
+
+.icon {
+  color: #41b7cc;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #3fa8ba;
+}
