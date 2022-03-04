@@ -86,7 +86,7 @@ def calculate_matched_tickers(start, end):
 def print_matched_tickers():
     matched_tickers = {"Buy 5":
             all_stocks_to_be_bought_5,
-            "Strong Buy 5":
+            "Strong Buy  5":
             all_stocks_to_be_strong_bought_5,
             "Strong Sell 5":
             all_stocks_to_be_strong_sold_5,
